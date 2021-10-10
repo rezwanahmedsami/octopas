@@ -1,0 +1,4 @@
+print: 5+5;
+print: 10-5;
+print: 5*(5+25);
+print: "My name is sami";
